@@ -1,0 +1,11 @@
+pandas
+matplotlib.pyplot
+statsmodels.tsa.arima.model
+datetime
+statsmodels.tsa.stattools
+adfuller
+pmdarima
+auto_arima
+sklearn.model_selection
+sklearn.metrics
+math
